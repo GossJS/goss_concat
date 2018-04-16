@@ -6,4 +6,4 @@ console.log(concat(1, [2], '3')); // 123
 ```
 
 
-https://kodaktor.ru/con_cat
+https://kodaktor.ru/goss_concat
