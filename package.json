@@ -1,7 +1,7 @@
 {
   "name": "goss_concat",
   "description": "Goss Concatenating Reducer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./index.js",
   "license": "MIT",
   "repository": "https://github.com/GossJS/goss_concat.git"
