@@ -1,7 +1,7 @@
 # Конкатенирующий редьюсер
 
 ```
-const concat = require('con_cat');
+const concat = require('goss_concat');
 console.log(concat(1, [2], '3')); // 123
 ```
 
